@@ -1,1 +1,1 @@
-Blog.qzhcjnb.cn
+Hello world
