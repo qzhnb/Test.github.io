@@ -2,7 +2,7 @@
     "title":"qzh test page",
     "subTitle":"hello world",
     "homeUrl":"https://test.qzhcjnb.cn",
-    "avatarUrl":"https://blog.meekdai.com/avatar.svg",        -图片
+    "avatarUrl":"https://blog.meekdai.com/avatar.svg",
     "faviconUrl":"https://blog.meekdai.com/favicon.svg",
     "singlePage":["link","about"],
     "email":"qzhcjnb@outlook.com",
